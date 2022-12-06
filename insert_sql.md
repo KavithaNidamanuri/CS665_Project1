@@ -70,16 +70,18 @@ INSERT INTO `history` (`history_id`, `data`, `action`, `date`, `user`) VALUES
 (565, 'john kevin lorayna', 'Login', '2012-11-03 20:24:08', 'admin'),
 (564, 'Achilles Palma', 'Deleted Voter', '10/25/2012 11:1:39', 'admin'),
 (563, 'john kevin lorayna', 'Login', '2012-10-25 10:48:40', 'admin');
+(562, 'lorayna', 'Login', '2012-10-25 10:58:40', 'admin');
 
 -- --------------------------------------------------------
 --
 -- Dumping data for table `users`
 --
 
-
+INSERT INTO `users` (`User_id`, `FirstName`, `LastName`, `UserName`, `Password`, `User_Type`) VALUES
 (2, 'john kevin', 'lorayna', 'admin', 'admin', 'admin'),
 (5, 'john kevin', 'lorayna', 'jkev', 'jkev', 'Admin'),
 (4, 'Stephnanie', 'Villanueva', 'teph', 'teph', 'Admin');
+(6, 'kavitha', 'nidamanuri', 'teph', 'teph', 'Admin');
 
 -- --------------------------------------------------------
 
