@@ -1,6 +1,6 @@
 # CS665_Project1 Group 17 
 
-Link to Project Repo:  
+Link to Project Repo:  https://github.com/KavithaNidamanuri/CS665_Project1/tree/main
 
 
 Memebers GitHub IDs and Names:
@@ -16,3 +16,4 @@ SATYANAGA SAI BHAVYASRI BOPPANA  -  bhavya0749 (gitHub ID)          N824G389(WSU
 
 
 The Link to Project's Demo video:
+https://youtu.be/7oC3BMmcGjQ
