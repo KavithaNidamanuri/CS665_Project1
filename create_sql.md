@@ -66,3 +66,15 @@ CREATE TABLE IF NOT EXISTS `voters` (
   PRIMARY KEY (`VoterID`)
 ) ENGINE=MyISAM  DEFAULT CHARSET=latin1 AUTO_INCREMENT=49 ;
 --
+
+-- Table structure for table `votes`
+--
+
+CREATE TABLE IF NOT EXISTS `votes` (
+  `ID` int(11) NOT NULL AUTO_INCREMENT,
+  `CandidateID` int(11) NOT NULL,
+  `votes` int(11) NOT NULL,
+  PRIMARY KEY (`ID`)
+) ENGINE=MyISAM  DEFAULT CHARSET=latin1 AUTO_INCREMENT=206 ;
+
+--
