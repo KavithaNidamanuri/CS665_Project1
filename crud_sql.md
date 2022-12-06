@@ -89,6 +89,8 @@ INSERT INTO `votes` (`ID`, `CandidateID`, `votes`) VALUES
 
 
 delete from candidate where CandidateID=1;
+ 
+delete from history where history_id=1;
 
 
 delete from users where User_id=2;	
