@@ -26,6 +26,7 @@ INSERT INTO `history` (`history_id`, `data`, `action`, `date`, `user`) VALUES
 Table:- `users`
 attributes:-`User_id`, `FirstName`, `LastName`, `UserName`, `Password`, `User_Type`
 pk:- `User_id`
+fk:- `CandidateID`
 
 
 INSERT INTO `users` (`User_id`, `FirstName`, `LastName`, `UserName`, `Password`, `User_Type`) VALUES
