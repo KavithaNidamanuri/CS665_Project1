@@ -28,7 +28,8 @@ INSERT INTO `candidate` (`CandidateID`, `abc`, `Position`, `Party`, `FirstName`,
 (158, 'f', '3rd Year Representative', 'Pig Party', 'Michael', 'Jomero', 'Dert', 'Male', '3rd year', 'upload/1.jpg'),
 (159, 'e', '3rd Year Representative', 'Pig Party', 'Cristine', 'Yanson', 'Poo', 'FeMale', '3rd year', 'upload/312212_286103561418274_100000558960309_1109905_270256889_n.jpg'),
 (186, 'f', '4th Year Representative', 'Pig Party', 'Gerald', 'Anderson', 'Ferrera', 'Male', '4th year', 'upload/black-abstract-windows7-seven-desktop-wallpaper-1600x1200.jpg'),
-(190, 'a', 'Governor', 'party2x', 'Sherwin', 'Laylon', 'Deres', 'Male', '3rd year', 'upload/293896_417785301600923_1313159027_n.jpg');
+(190, 'a', 'Governor', 'party2x', 'Sherwin', 'Laylon', 'Deres', 'Male', '3rd year', 'upload/293896_417785301600923_1313159027_n.jpg'),
+(175, 'f', '4th Year Representative', 'Horse Party', 'Lonida', 'Delez', 'Deres', 'FeMale', '4th year', 'upload/[large][AnimePaper];
 
 -- --------------------------------------------------------
 
